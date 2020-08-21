@@ -7,7 +7,7 @@
       multiple
       required
       v-model="brand.categories"
-      label="请选择商品分类"/>
+      label="请选择商品分类1"/>
     <v-layout row>
       <v-flex xs3>
         <span style="font-size: 16px; color: #444">品牌LOGO：</span>
